@@ -7,4 +7,4 @@ This parameter helps hospitals to identify patients of high LOS risk (patients w
 Suppose you have been hired as Data Scientist of HealthMan – a not for profit organization dedicated to manage the functioning of Hospitals in a professional and optimal manner.
 The task is to accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days.
 
-I have used LGBM to predict the "Stay". I have got Accuracy of 42.3753 for test dataset
+I have used LGBM to predict the "Stay". I have got Accuracy of 42.3753 for test dataset.
